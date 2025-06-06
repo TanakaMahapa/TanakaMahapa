@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tanaka Mahapa
 
 <p align="center">
- <img src="https://github.com/TanakaMahapa/TanakaMahapa/raw/main/Resources/Gojo.jpeg" alt="Gojo" width="300" />
+ <img src="https://github.com/TanakaMahapa/TanakaMahapa/raw/main/Resources/anime.jpeg" alt="Gojo" width="300" />
 
 </p>
 
